@@ -9,6 +9,20 @@ Paste into Claude Code:
 Install fibo-mcp from https://github.com/NeuroFusionAI/fibo-mcp
 ```
 
+## GitHub Codespaces
+
+Open this repository in a Codespace for instant setup:
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/tajmahal226/fibo-mcp)
+
+Everything is pre-configured! The devcontainer will automatically:
+- Install `uv` package manager
+- Install all Python dependencies
+- Set up VS Code with Python extensions
+- Pre-download FIBO data
+
+See [.devcontainer/README.md](.devcontainer/README.md) for details.
+
 ## Installation
 
 If already in fibo-mcp directory, skip clone and cd. Run all commands from the fibo-mcp directory:
